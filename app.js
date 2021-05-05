@@ -26,13 +26,13 @@ converter().fromFile('./CSVs/marks.csv')
         })
     })
 
-converter().fromFile('./CSVs/students.csv')
-    .then(students => {
-        fs.writeFile('students.json', JSON.stringify(students),(err) => {
-            if(err){
-                throw err
-            }
-            console.log("JSON file saved for students")
-        })
-    })
+// converter().fromFile('./CSVs/students.csv')
+//     .then(students => {
+//         fs.writeFile('students.json', JSON.stringify(students),(err) => {
+//             if(err){
+//                 throw err
+//             }
+//             console.log("JSON file saved for students")
+//         })
+//     })
 
