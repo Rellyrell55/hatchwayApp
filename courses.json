@@ -1,5 +1,1 @@
-[
-    {"id":"1","name":"Biology","teacher":"Mr. D"},
-    {"id":"2","name":"History","teacher":"Mrs. P"},
-    {"id":"3","name":"Math","teacher":"Mrs. C"}
-]
+[{"id":"1","name":"Biology","teacher":"Mr. D"},{"id":"2","name":"History","teacher":"Mrs. P"},{"id":"3","name":"Math","teacher":"Mrs. C"}]
